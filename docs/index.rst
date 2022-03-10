@@ -2,7 +2,7 @@ Manuale operativo del portale dati Open Access *OE - DataRep*
 =============================================================
 
 .. image:: assets/pictures/INGV_logo2.jpg
-   :alt: OE DataRep
+   :alt: DataRep
    :width: 320px
    :align: right
 
@@ -13,7 +13,6 @@ Indice:
 
 .. toctree::
    :maxdepth: 3
-   :numbered:
 
    intro
    processo_caricamento
