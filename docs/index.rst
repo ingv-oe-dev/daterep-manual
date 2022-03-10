@@ -3,7 +3,7 @@ Manuale operativo del portale dati Open Access *OE - DataRep*
 
 .. image:: assets/pictures/INGV_logo2.jpg
    :alt: OE DataRep
-   :scale: 50 %
+   :width: 320px
    :align: right
 
 Questo documento rappresnta un manuale operativo di utilizzo del Portale Dati Open Access

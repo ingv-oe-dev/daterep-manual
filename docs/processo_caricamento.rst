@@ -1,7 +1,7 @@
 Processo di caricamento dati sul portale DataRep
 ================================================
 
-Il processo da seguire per pubblicare i propri dataset nel repository **DataRep**
+Il processo da seguire per pubblicare *dataset* sul repository **DataRep**
 coinvolge due entità: il *Metadata Editor* ed il *DataRep*, ed è descritto per
 linee generali nella seguente figura e nei seguenti punti:
 
@@ -18,26 +18,13 @@ Ufficio Gestione Dati (UGD)
 	- **UGD** assegna il *DOI*
 	- **UGD** pubblica su **DataRep**
 
-Caricamento del *dataset* sullo spazio **Google Drive** personale
------------------------------------------------------------------
+
 .. include:: ./caricamentodataset.rst
 
-Crezione della *scheda descrittiva* dal **Metadata Editor**
------------------------------------------------------------
 .. include:: ./creazionescheda.rst
 
-Compilazione dei *Metadati*
----------------------------
 .. include:: ./compilazionemetadati.rst
 
-Validazione della scheda e assegnazione del DOI (Ufficio Gestione Dati)
------------------------------------------------------------------------
 .. include:: ./validazionescheda.rst
 
-Pubblicazione sul portale **DataRep** (Ufficio Gestione Dati)
--------------------------------------------------------------
 .. include:: ./pubblicazione.rst
-
-
-
-
