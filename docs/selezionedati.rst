@@ -1,5 +1,5 @@
 Selezione dell'elenco di file da pubblicare
-===========================================
+-------------------------------------------
 
 A questo punto l’utente aggiunge l’elenco dei file da caricare su DataRep:
 
