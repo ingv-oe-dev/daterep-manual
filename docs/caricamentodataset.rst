@@ -11,18 +11,16 @@ portale DataRep.
 .. image:: assets/pictures/2.png
    :align: center
 
-Successivamente l’utente rende accessibili gli stessi files del dataset mediante la funzionalità “Condividi".
+Successivamente l’utente rende accessibili gli stessi files del dataset mediante la funzionalità *“Condividi"(share)*.
 
 .. image:: assets/pictures/3.png
    :align: center
 
-E' necessario selezionare l’opzione “Chiunque abbia il link” generando univocamente un link per ciascun file che sarà utilizzato dal Metadata Manager per l’operazione di upload su DataRep.
+E' necessario selezionare l’opzione *“Chiunque abbia il link” (Anyone with the link)* generando univocamente un link per ciascun file che sarà utilizzato dal Metadata Manager per l’operazione di upload su DataRep.
 
 .. image:: assets/pictures/4.png
    :align: center
 
-Un dataset può essere composto da uno o più file a cui corrisponderanno di conseguenza più *link* (è consigliato archiviare in un file di tipo **zip** i differenti *file* e creare un unico link di condivisione). 
+Un dataset può essere composto da uno o più file a cui corrisponderanno di conseguenza più *link*.
 
-I dati devono essere caricati in un formato aperto tenendo conto che lo scopo è quello della fruibilità degli stessi.
-
-
+E' consigliato archiviare in un unico file di tipo **zip** o **tar**, **rar** i differenti *file* , così da creare un unico link di condivisione).
