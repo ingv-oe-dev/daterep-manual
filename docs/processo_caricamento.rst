@@ -28,6 +28,8 @@ Ufficio Gestione Dati (UGD)
 
 .. include:: ./compilazionemetadati.rst
 
+.. include:: ./selezionedati.rst
+
 .. include:: ./validazionescheda.rst
 
 .. include:: ./pubblicazione.rst
