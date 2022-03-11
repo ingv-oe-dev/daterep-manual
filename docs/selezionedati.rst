@@ -7,8 +7,7 @@ Il Metadata Editor mostrerà le funzioni di caricamento sul portale DataRep
 quando le due condizioni seguenti saranno soddisfatte:
 
 1. Il *dataset* **deve** essere dichiarato **statico** nella sezione di metadati
-   ``“Details about data”``. Se necessario, in futuro sarà possibile pubblicare
-	 nuove revisioni, pubblicando un nuovo dataset seguendo la stessa procedura
+   ``“Details about data”``. Se necessario, in futuro sarà possibile pubblicare nuove revisioni, pubblicando un nuovo dataset seguendo la stessa procedura
 	 con l’accortezza di indicare la relazione con la versione precedente nella
 	 sezione di metadati **“Relations to other data and publications”**.
 	 Nell'immagine in basso un esempio di selezione del tipo in statico.
@@ -32,7 +31,7 @@ Le funzioni per caricare dati su DataRep saranno mostrate solo dopo che l’elen
 degli autori sarà compilato.
 
 E’ possibile verificare in ogni momento le affiliazioni di ciascun autore
-cliccando sul bottone “Check affiliations” sotto l’elenco degli autori.
+cliccando sul bottone *Check affiliations* sotto l’elenco degli autori.
 
 .. image:: assets/pictures/14.png
 	 :align: center
@@ -57,15 +56,15 @@ fare ciò:
 
 3. cliccare il bottone ``“Modify the list”``, per aprire la maschera di selezione
    dei files da Google Drive;
-4. inserire i link, generati come visto nel paragrafo ...., a ciascun file
+4. inserire i link, generati come visto nel paragrafo like `Caricamento del dataset sullo spazio Google Drive personale`_, a ciascun
+   file
 
 .. image:: assets/pictures/9.png
 	 :align: center
 	 :width: 500
 
 5. per verificare che i dati siano caricabili su DataRep cliccare sul bottone
-   ``“Check Google Drive files”``, la spunta verde in corrispndenza della colonna
-	 *Check* indica che sarà possibile procedere al caricamento;
+   ``“Check Google Drive files”``, la spunta verde in corrispndenza della colonna *Check* indica che sarà possibile procedere al caricamento;
 
 .. image:: assets/pictures/11.png
 	 :align: center
