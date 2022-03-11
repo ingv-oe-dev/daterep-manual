@@ -7,15 +7,14 @@ Il Metadata Editor mostrerà le funzioni di caricamento sul portale DataRep
 quando le due condizioni seguenti saranno soddisfatte:
 
 1. Il *dataset* **deve** essere dichiarato **statico** nella sezione di metadati
-   ``“Details about data”``. Se necessario, in futuro sarà possibile pubblicare nuove revisioni, pubblicando un nuovo dataset seguendo la stessa procedura
-	 con l’accortezza di indicare la relazione con la versione precedente nella
-	 sezione di metadati **“Relations to other data and publications”**.
-	 Nell'immagine in basso un esempio di selezione del tipo in statico.
+   ``“Details about data”``. Se necessario, in futuro sarà possibile pubblicare nuove revisioni, pubblicando un nuovo dataset seguendo la stessa procedura con l’accortezza di indicare la relazione con la versione precedente nella sezione di metadati **“Relations to other data and publications”**. Nell'immagine in basso un esempio di selezione del tipo in statico.
 
 .. image:: assets/pictures/7.png
 	 :align: center
 
+
 .. note::
+
 	Con statico si intende che il dataset non verrà più aggiornato dopo la sua
 	pubblicazione.
 
