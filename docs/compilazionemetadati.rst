@@ -13,5 +13,5 @@ Compilazione dei *Metadati*
 5. Durante la compilazione dei campi è possibile verificarne la correttezza in ogni momento agendo sul bottone ``“Check if this record can be validated”``. Se il processo rileva errori o incompletezze, queste saranno dettagliatamente elencate dal *Metadata Editor*.
 
 6. Solo quando l’utente avrà cliccato il bottone ``“Create”`` in fondo alla scheda, essa sarà compilabile in ogni sua parte.
-	
+
 	Il dataset non verrà pubblicato quando la scheda verrà creata o salvata, ma solo quando espressamente richiesto dall’utente e comunque dopo un processo di validazione così come previsto dalla Politica dei Dati istituzionale.
