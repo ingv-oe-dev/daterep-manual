@@ -6,6 +6,7 @@ coinvolge due entità: il *Metadata Editor* ed il *DataRep*, ed è descritto per
 linee generali nella seguente figura e nei seguenti punti:
 
 .. image:: assets/pictures/1.png
+	 :align: center
 
 Utente
 	- carica il *dataset* nel proprio spazio su **Google Drive**

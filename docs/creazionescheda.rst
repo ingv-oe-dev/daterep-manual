@@ -11,9 +11,9 @@ descrittiva del *dataset*:
 	 *copia*  di una scheda già esistente da completare;
 #. A questo punto il sistema consente di inizializzare una nuova bozza,
    permettendo all'utente di scegliere se creare un nuovo *record* che descrive
-	 il *dataset*, a cui:
-	 #. non è ancora stato assegnato nessun DOI,
-	 #. è già stato assegnato un DOI.
+	 il *dataset*, a cui: a) non è ancora stato assegnato nessun DOI, b) è già
+	 stato assegnato un DOI.
 
 
 .. image:: assets/pictures/5.png
+	 :align: center
