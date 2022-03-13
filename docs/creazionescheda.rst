@@ -17,3 +17,5 @@ descrittiva del *dataset*:
 
 .. image:: assets/pictures/5.png
 	 :align: center
+
+3. Il *web-form* verrà mostrato all'utente come un'anteprima e sarà compilabile solo in parte in quanto la scheda vera e propria non verrà creata nel sistema fino a quanto l'utente non avrà cliccato il bottone "Create" in fondo alla scheda.
