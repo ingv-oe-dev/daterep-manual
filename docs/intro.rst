@@ -23,8 +23,8 @@ Il processo di pubblicazione di un dataset su **DataRep** coinvolge due entità:
    vengono resi disponibili nel rispetto delle **FAIR** policies dettate dal
    paradgima Open Access.
 
-Entrando un po' più nel dettaglio delle entità coinvolte nel processo di
-pubblicazione, il **Metadata Editor**, si occupa:
+Entrando nel dettaglio delle entità coinvolte nel processo di pubblicazione, il
+**Metadata Editor**, si occupa:
 
 - della gestione centralizzata dei metadati che descrivono i datasets
 - pubblica automaticamente la scheda del dataset sul portale **DataRep**
