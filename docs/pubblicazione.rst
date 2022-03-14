@@ -13,11 +13,11 @@ nella figura sottostante.
   caricherà su DataRep la scheda contenente dati e metadti e pubblicherà
   automaticamente la *landing-page*.
 
-  .. image:: assets/pictures/17.png
-  	 :align: center
-     :width: 600
+.. image:: assets/pictures/17.png
+   :align: center
+   :width: 600
 
-La *landing-page* creata dal Portale DataRe è mostrata nella figura sotto
+La *landing-page* creata dal Portale DataRep è mostrata nella figura sotto
 
 .. image:: assets/pictures/18.png
    :align: center
