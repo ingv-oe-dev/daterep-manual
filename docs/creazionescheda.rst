@@ -7,15 +7,19 @@ per l'accesso alla posta elettronica) al fine di **creare** una scheda
 descrittiva del *dataset*:
 
 #. Il primo passo consiste nella *creazione* di una nuova scheda descrittiva in
-   **bozza - Drafts**, scegliendo se iniziare da una *scheda vuota* o dalla
-	 *copia*  di una scheda già esistente da completare;
-#. A questo punto il sistema consente di inizializzare una nuova bozza,
-   permettendo all'utente di scegliere se creare un nuovo *record* che descrive
-	 il *dataset*, a cui: a) non è ancora stato assegnato nessun DOI, b) è già
-	 stato assegnato un DOI.
+   **bozza - Drafts**, scegliendo se iniziare da una *scheda vuota* o dalla *copia*
+   di una scheda già esistente da completare;
+#. A questo punto il sistema consente di inizializzare una nuova bozza, permettendo
+   all'utente di scegliere se creare un nuovo *record* che descrive il *dataset*,
+   a cui: **a)** non è ancora stato assegnato nessun DOI, **b)** è già stato
+   assegnato un DOI.
 
 
-.. image:: assets/pictures/5.png
+.. figure:: assets/pictures/5.png
 	 :align: center
+    
 
-3. Il *web-form* verrà mostrato all'utente come un'anteprima e sarà compilabile solo in parte in quanto la scheda vera e propria non verrà creata nel sistema fino a quanto l'utente non avrà cliccato il bottone "Create" in fondo alla scheda.
+3. Il *web-form* verrà mostrato all'utente come un'anteprima e sarà compilabile
+   solo in parte in quanto la scheda vera e propria non verrà creata nel sistema
+   fino a quanto l'utente non avrà cliccato il bottone "Create" in fondo alla
+   scheda.
