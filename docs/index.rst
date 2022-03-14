@@ -6,7 +6,8 @@ Manuale operativo del portale dati Open Access *OE - DataRep*
    :width: 320px
    :align: right
 
-Questo documento rappresnta un manuale operativo di utilizzo del Portale Dati Open Access
+Questo documento rappresenta un manuale operativo di utilizzo del Portale Dati
+Open Access
 **DataRep**.
 
 Indice:
