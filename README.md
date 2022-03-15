@@ -1,4 +1,4 @@
-[![Documentation Status](https://readthedocs.org/projects/datarep-manual/badge/?version=latest)](https://datarep-manual.readthedocs.io/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/datarep-manual/badge/?version=latest)](https://datarep-manual.readthedocs.io/it/latest/?badge=latest)
 
 # DataRep User Manual
 
