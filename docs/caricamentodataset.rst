@@ -15,7 +15,7 @@ carica il dataset da pubblicare sul portale DataRep.
    :align: center
 
 Successivamente l’utente rende accessibili gli stessi files del dataset mediante
-la funzionalità *"Condividi"* o *"Share"*.
+la funzionalità *"Ottieni link"* o *"Get link"*.
 
 .. image:: assets/pictures/3.png
    :align: center
