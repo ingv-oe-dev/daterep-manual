@@ -11,7 +11,7 @@ creata nel sistema e sarà editabile in ogni sua parte.
 Quando la scheda viene creata sarà inserita nel metadata editor sotto forma di
 bozza (*draft*) e sarà considerata tale fino alla fine del processo di
 validazione, processo che verrà avviato dall'utente quando avrà terminato la
- compilazione della scheda.
+compilazione della scheda.
 
 L'utente descriverà il dataset compilando esaustivamente quanti più campi
 possibili tra quelli disponibili come nella scheda di esempio della seguente
@@ -32,10 +32,10 @@ referenti andranno indicati nella sezione dei metadati denominata ``“Info
 specific to INGV”``. Oltre ai metadati obbligatori, evidenziati in blu nella
 scheda (Fig. sopra), si suggerisce di compilare anche informazioni utili come la
 copertura temporale, geografica e soprattutto eventuali relazioni con altri dati
-o pubblicazioni nell’apposita sezione ``“Relations to other data and
+o pubblicazioni nell'apposita sezione ``“Relations to other data and
 publications”``.
 
-Infine, è anche possibile caricare un’immagine di copertina in fondo al
+Infine, è anche possibile caricare un'immagine di copertina in fondo al
 *web-form* alla scritta ``“upload a cover image file”``.
 
 .. image:: assets/pictures/16.png
@@ -64,7 +64,7 @@ nello stesso istante.
 
 Se è necessario permettere ad altre persone di editare la scheda, queste possono
 essere aggiunte dai referenti nella sezione ``Additional users allowed to update
- metadata of this record`` nella sezione di metadati ``“Info specific to INGV”``.
+metadata of this record`` nella sezione di metadati ``“Info specific to INGV”``.
 
 Quando la compilazione della bozza della scheda sarà ultimata e il sistema di
 verifica automatico non rileverà più errori, l'utente potrà avviare il processo

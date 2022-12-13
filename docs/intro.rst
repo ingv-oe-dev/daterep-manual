@@ -17,9 +17,9 @@ Come pubblicare sul portale DataRep
 Il processo di pubblicazione di un dataset su **DataRep** coinvolge due entità:
 
 1. il **Metadata Editor** (`link <http://data.ingv.it/metadata>`_) collegato al
-   **Registro Dati** istituzionale e gestito dall’**Ufficio Gestione Dati**
-   dell’**INGV** (`link <https://istituto.ingv.it/it/50-archivi-e-banche-dati/1760-ufficio-gestione-dati.html>`_);
-2. il portale **DataRep** (`link <https://oedatarep.ct.ingv.it>`_) dove i dataset
+   **Registro Dati** istituzionale e gestito dall'**Ufficio Gestione Dati**
+   dell'**INGV** (`link2 <https://istituto.ingv.it/it/50-archivi-e-banche-dati/1760-ufficio-gestione-dati.html>`_);
+2. il portale **DataRep** (`link3 <https://oedatarep.ct.ingv.it>`_) dove i dataset
    vengono resi disponibili nel rispetto delle **FAIR** policies dettate dal
    paradgima Open Access.
 
@@ -37,5 +37,5 @@ mezzo per condividere e conservare i risultati scientifici e che ne consente la
 - associa automaticamente i metadati della pubblicazione generati dal Metadata
   Editor alle landing pages;
 - implementa la risolvibilità del DOI associato alla publicazione;
-- permette l’esportazione secondo vari schemi di metadati tra cui quello,
-  definito da **DataCite** (`link <https://schema.datacite.org>`_);
+- permette l'esportazione secondo vari schemi di metadati tra cui quello,
+  definito da **DataCite** (`link4 <https://schema.datacite.org>`_);

@@ -5,8 +5,8 @@ Quando la compilazione della scheda sarà completata si potrà procedere alla
 **validazione** cliccando sul bottone ``“Start the validation process”``. 
 
 .. warning::
-   in caso di problemi, l’Ufficio Gestione Dati si occuperà di contattare 
-   l’utente per eventuali correzioni o integrazioni.
+   in caso di problemi, l'Ufficio Gestione Dati si occuperà di contattare 
+   l'utente per eventuali correzioni o integrazioni.
 
 La figura seguente mostra gli stati di avanzamento del processo di validazione. 
 
@@ -16,7 +16,7 @@ La figura seguente mostra gli stati di avanzamento del processo di validazione.
 La validazione potrebbe arrivare fino a tre gradi di approvazione a seconda delle 
 caratteristiche del dataset e degli autori indicati:
 
-- il primo grado di validazione è in capo all’*Ufficio Gestione Dati*, nello 
+- il primo grado di validazione è in capo all'*Ufficio Gestione Dati*, nello 
   specifico il coordinatore e un referente per ciascuno dei Dipartimenti indicati;
 - il secondo grado è in capo ai *Direttori delle Sezioni* coinvolte identificate
   automaticamente dal Metadata Editor in base alle affiliazioni disponibili nella
