@@ -42,32 +42,16 @@ sezione “People” del Metadata Editor. Le modifiche apportate ai profili
 personali saranno monitorate.
 
 A questo punto è possibile procedere alla selezione dei *file* da pubblicare su
-**DataRep** che erano precedentemente stati caricati sul **Google Drive**. Per
-fare ciò:
+**DataRep**. Per fare ciò:
 
 1. espandere la sezione ``“Data Access and Distribution”`` di metadati;
 2. selezionare *Osservatorio Etneo Open Data Repository* nel campo ``“Target
    Repository where data will be uploaded”``;
+3. effettuare il *caricamento* dei file che compongono il *dataset* direttamente sul *repository*
+   OEDataRep attraverso il *form* di *upload*;
 
-.. image:: assets/pictures/10.png
+.. image:: assets/pictures/place_holder_upload.png
 	 :align: center
-	 :width: 500
 
-3. cliccare il bottone ``“Modify the list”``, per aprire la maschera di selezione
-   dei files da Google Drive;
-4. inserire i link, generati come visto nel paragrafo like `Caricamento del dataset sullo spazio Google Drive personale`, a ciascun
-   file
-
-.. image:: assets/pictures/9.png
-	 :align: center
-	 :width: 500
-
-5. per verificare che i dati siano caricabili su DataRep cliccare sul bottone
-   ``“Check Google Drive files”``, la spunta verde in corrispndenza della colonna *Check* indica che sarà possibile procedere al caricamento;
-
-.. image:: assets/pictures/11.png
-	 :align: center
-	 :width: 500
-
-6. infine cliccare sul bottone *SAVE* in fondo alla scheda per salvare la Bozza
+4. infine cliccare sul bottone *SAVE* in fondo alla scheda per salvare la Bozza
    creata.

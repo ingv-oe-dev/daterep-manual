@@ -1,7 +1,7 @@
 Crezione della *scheda descrittiva* dal Metadata Editor
 -------------------------------------------------------
 
-Ottenuto il link di condivisione, l'utente si autentica sul portale del Metadata
+L'utente si autentica sul portale del Metadata 
 Editor utilizzando il proprio account istituzionale (*nome.cognome@ingv.it* come
 per l'accesso alla posta elettronica) al fine di **creare** una scheda
 descrittiva del *dataset*:

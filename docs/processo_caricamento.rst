@@ -9,11 +9,11 @@ linee generali nella seguente figura e nei seguenti punti:
 	 :align: center
 
 Utente
-	- carica il *dataset* nel proprio spazio su **Google Drive**
-	- crea la **scheda descrittiva**
+	- crea la **scheda descrittiva** sul *Metadata Editor*
 
 	  - compila i *metadati*
-	  - seleziona i *file* da pubblicare
+	  - seleziona i *file* che compongono il *dataset* da pubblicare
+	  - effettua il caricamento del *dataset*
 
 	- richiede la validazione della scheda
 
@@ -22,8 +22,6 @@ Ufficio Gestione Dati (UGD)
 	- verifica se assegnare il *DOI*
 	- pubblica su **DataRep**
 
-
-.. include:: ./caricamentodataset.rst
 
 .. include:: ./creazionescheda.rst
 
