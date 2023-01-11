@@ -45,12 +45,23 @@ A questo punto è possibile procedere alla selezione dei *file* da pubblicare su
 **DataRep**. Per fare ciò:
 
 1. espandere la sezione ``“Data Access and Distribution”`` di metadati;
+
+.. image:: assets/pictures/file_upload_01.png
+	 :align: center
+
 2. selezionare *Osservatorio Etneo Open Data Repository* nel campo ``“Target
    Repository where data will be uploaded”``;
+
+.. image:: assets/pictures/file_upload_02.png
+	 :align: center
+
 3. effettuare il *caricamento* dei file che compongono il *dataset* direttamente sul *repository*
    OEDataRep attraverso il *form* di *upload*;
 
-.. image:: assets/pictures/place_holder_upload.png
+.. image:: assets/pictures/file_upload_03.png
+	 :align: center
+
+.. image:: assets/pictures/file_upload_04.png
 	 :align: center
 
 4. infine cliccare sul bottone *SAVE* in fondo alla scheda per salvare la Bozza
