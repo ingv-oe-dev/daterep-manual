@@ -29,6 +29,8 @@ Ufficio Gestione Dati (UGD)
 
 .. include:: ./selezionedati.rst
 
+.. include:: ./serietemporale.rst
+
 .. include:: ./validazionescheda.rst
 
 .. include:: ./pubblicazione.rst

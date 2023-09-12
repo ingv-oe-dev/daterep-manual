@@ -7,7 +7,11 @@ Il Metadata Editor mostrerà le funzioni di caricamento sul portale DataRep
 quando le due condizioni seguenti saranno soddisfatte:
 
 1. Il *dataset* **deve** essere dichiarato **statico** nella sezione di metadati
-   ``“Details about data”``. Se necessario, in futuro sarà possibile pubblicare nuove revisioni, pubblicando un nuovo dataset seguendo la stessa procedura con l'accortezza di indicare la relazione con la versione precedente nella sezione di metadati **“Relations to other data and publications”**. Nell'immagine in basso un esempio di selezione del tipo in statico.
+   ``“Details about data”``. Se necessario, in futuro sarà possibile pubblicare 
+   nuove revisioni, pubblicando un nuovo dataset seguendo la stessa procedura 
+   con l'accortezza di indicare la relazione con la versione precedente nella 
+   sezione di metadati **“Relations to other data and publications”**. 
+   Nell'immagine in basso un esempio di selezione del tipo in statico.
 
 .. image:: assets/pictures/7.png
 	 :align: center
@@ -26,8 +30,8 @@ quando le due condizioni seguenti saranno soddisfatte:
 
 .. note::
 
-	Le funzioni per caricare dati su DataRep saranno mostrate solo dopo che l'elenco 
-	degli autori sarà compilato.
+	Le funzioni per caricare dati su DataRep saranno mostrate solo dopo che 
+	l'elenco degli autori sarà compilato.
 
 E' possibile verificare in ogni momento le affiliazioni di ciascun autore
 cliccando sul bottone *Check affiliations* sotto l'elenco degli autori.
@@ -55,8 +59,13 @@ A questo punto è possibile procedere alla selezione dei *file* da pubblicare su
 .. image:: assets/pictures/file_upload_02.png
 	 :align: center
 
-3. effettuare il *caricamento* dei file che compongono il *dataset* direttamente sul *repository*
-   OEDataRep attraverso il *form* di *upload*;
+3. effettuare il *caricamento* dei file che compongono il *dataset* direttamente
+sul *repository* OEDataRep attraverso il *form* di *upload*;
+
+   .. note::
+    Se il *dataset* da pubblicare è una ``“Time Series”`` (serie temporale), 
+    seguire le istruzioni aggiuntive nel sottoparagrafo ``Specificare e caricare
+    un dataset di tipo Serie Temporale``, prima di pasare al punto 4.
 
 .. image:: assets/pictures/file_upload_03.png
 	 :align: center
