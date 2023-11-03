@@ -4,7 +4,7 @@
 
 This report represents an User Manual to operate on **DataRep** Open Access Repository.
 
-**DataRep** is an Open Access Repository based on [Zenodo Repository] software, customized for needs of National Institute for Geophysics and Volcanology - Etneo Observatory Department.
+**DataRep** is an Open Access Repository based on [InvenioRDM](https://inveniordm.docs.cern.ch/) software, customized for needs of National Institute for Geophysics and Volcanology - Etneo Observatory Department.
 
 
 
