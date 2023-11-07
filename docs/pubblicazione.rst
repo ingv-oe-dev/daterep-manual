@@ -1,17 +1,12 @@
 Pubblicazione sul portale **DataRep**
 -------------------------------------
 
-L'ultimo step, nel processo di upload di un dataset sul portale DataRep,
-è demandato ai responsabili dell'Ufficio Gestione Dati. L'interfaccia web del
-*Metadata Editor*, per queste figure, mette a disposizione due bottoni, mostrati
-nella figura sottostante.
-
-- Il bottone ``"Upload a draft"`` caricherà su DataRep una bozza della scheda,
-  contenente dati e metadati senza rendere la *landing-page* pubblicamente
-  accessibile.
-- Il bottone ``"Upload and publish or edit an already published record"``,
-  caricherà su DataRep la scheda contenente dati e metadati e pubblicherà
-  automaticamente la *landing-page*.
+L'ultimo step, nel processo di upload di un dataset sul portale DataRep consiste
+nel creare il record sul repository. L'interfaccia del *Metadata Editor* mette a
+disposizione, nella sezione ``"9. Data Access and Distribution"``, la 
+possibilità di selezionare il repository DataRep. Una volta selezionato il 
+repository, l'interfaccia permette di caricare i file che appartegono alla
+pubblicazione, come mostrato nella figura sottostante.
 
 .. image:: assets/pictures/17.png
    :align: center
