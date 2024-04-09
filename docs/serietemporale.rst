@@ -22,5 +22,10 @@ passi aggiuntivi di configurazione:
    una volta che il dataset verrà pubblicato (vedi fase successiva validazione 
    scheda) sul portale OEDataRep.
 
+.. warning::
+   Requisito **mandatorio** per il corretto caricamento della serie temporale sul 
+   backend del TSDSystem, è che la colonna contentente i ``“timestamp”`` 
+   deve essere nominata "**time**".
+
 .. image:: assets/pictures/ts_web_form.png
      :align: center
